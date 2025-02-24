@@ -1,11 +1,11 @@
 image:
-  tag: "1.0"
+  tag: "4.1"
 
 replicaCount: 1
 
 ingress:
   name: exprm-k8s-exprm1
-  host: pstastny.exprm.gopay.com
+  host: mrottner.exprm.gopay.com
 
 #nodeSelector:
 #  role-app: app
